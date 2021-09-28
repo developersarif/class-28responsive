@@ -1,0 +1,107 @@
+@media (max-width:768px) {
+    .wrap {
+        margin-top: 30px;
+        padding-bottom: 15px;
+    }
+    .sarif {
+        font-size: 16px;
+    }
+    .contact {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .wrap a {
+        background: #8490FF;
+        padding: 5px 7px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .sajib {
+        margin-left: 0;
+        font-size: 15px;
+    }
+    .frnd img {
+        border: 1px solid #E9EBEE;
+        margin-top: 120px;
+    }
+    .bring {
+        background-color: #8490FF;
+        padding: 30px 0;
+        color: white;
+    }
+    .number-item {
+        text-align: center;
+    }
+    .navbar{
+        position: inherit !important;
+    }
+    .hp h3 {
+        display: inline-block;
+        padding: 15px 15px;
+        background: #F9F9FF;
+        border-radius: 50%;
+        font-size: 20px;
+    }
+    .hp h2 {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .hp p {
+        font-size: 15px;
+    }
+    .hp ul li {
+        padding-bottom: 0px;
+        padding-top: 10px;
+        color: #8F8F8F;
+        font-size: 16px;
+    }
+    .hp .beauty {
+        padding: 5px 14px;
+        font-size: 15px;
+    }
+    .content-form .card {
+        padding: 0;
+    }
+    .card-body h4 {
+        position: relative;
+        top: -13px;
+        font-size: 19px;
+    }
+    form .btn {
+        padding: 5px 8px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    
+}
+@media (max-width:576px) {
+    .wrap {
+        margin-top: 20px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .japan{
+        padding: 0;
+    }
+    .sajib h5{
+            font-size: 15px;
+            margin-top: 5px;
+       }
+       .sajib h1{
+            font-size: 20px;
+            margin-top: 10px;
+       }
+       .mili {
+        width: 50%;
+    }
+    .number-item {
+        margin-top: 10px;
+         }
+         .para {
+            width: 50%;
+        }
+        .get {
+            margin-top: 37px;
+            
+        }
+}
